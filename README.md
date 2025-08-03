@@ -26,7 +26,9 @@ Outputting Code...
 > -Catch! Teenieping\
 > -Tales of Arcadia\
 > -Ejen Ali\
-> -Rabbids
+> -Rabbids\
+> -7 Years from Now\
+> -Candies n' Curses
 >
 > ## DNI
 > Basic DNI\
